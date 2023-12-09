@@ -1,0 +1,60 @@
+*{
+    background-color:rgb(48, 48, 108); 
+    color: white;
+}
+
+
+table{
+    text-align: center;
+    background-color: rgb(48, 48, 108);
+    border-collapse: collapse;
+    border: 1px solid black;
+    width: 86%;
+     margin-left:7%;
+     margin-right:7%;
+    
+}
+th,td{
+    border: 1px solid black;
+}
+th{
+    color: blue;
+}
+h1,h4{
+    color: white;
+    text-align: center;
+}
+
+.d{
+    color: rgb(194, 86, 86);
+}
+
+#date2,#date4
+    {
+    background-color: grey;
+}
+
+.a{
+    background-color: grey;
+    color: white;
+} 
+
+#date4{
+    background-color: yellow;
+    color: black;
+}
+ 
+.b{
+    background-color: blue;
+}
+
+
+#tr2{
+    background-color: blue;
+}
+
+#am1{
+    background-color:blue;
+}
+
+
